@@ -11,6 +11,8 @@ namespace GitHubTest1
         static void Main(string[] args)
         {
             Console.WriteLine("第一次使用github，上传源代码");
+            Console.WriteLine("第一次使用github，上传源代码");
+            Console.WriteLine("第一次使用github，上传源代码");
             if (true)
             {
                 
