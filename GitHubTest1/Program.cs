@@ -15,7 +15,7 @@ namespace GitHubTest1
             Console.WriteLine("第一次使用github，上传源代码");
             if (true)
             {
-                
+                Console.WriteLine("第一次使用github，上传源代码");
             }
         }
     }
